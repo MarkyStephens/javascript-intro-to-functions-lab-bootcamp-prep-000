@@ -18,6 +18,6 @@ if (string === lowerCase) {
   return "I can't hear you!";
 } 
   else if (string === upperCase) {
-    return "YES INDEED";
+    return "YES INDEED!";
   }
 }
