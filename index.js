@@ -20,4 +20,7 @@ if (string === lowerCase) {
   else if (string === upperCase) {
     return "YES INDEED!";
   }
+  else if (string === "I love you Grandma."){
+    return "I love you, too."
+  }
 }
